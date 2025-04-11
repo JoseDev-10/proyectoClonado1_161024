@@ -16,5 +16,10 @@ namespace proyectoClonado1_161024
         {
             MessageBox.Show("Cargando archivo a GitHub");
         }
+
+        void Commit1()
+        {
+            //Commit 1
+        }
     }
 }

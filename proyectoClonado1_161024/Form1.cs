@@ -21,5 +21,10 @@ namespace proyectoClonado1_161024
         {
             //Commit 1
         }
+
+        void Commit2()
+        {
+            //Commit 2
+        }
     }
 }

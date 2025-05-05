@@ -14,7 +14,10 @@ namespace proyectoClonado1_161024
             //Commit1
         }
 
-
+        public void Prueba2()
+        {
+            //Commit1
+        }
     }
 
 }

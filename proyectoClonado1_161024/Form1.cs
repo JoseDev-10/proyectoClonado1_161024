@@ -32,5 +32,9 @@ namespace proyectoClonado1_161024
 
         }
 
+        public void FuncionD()
+        {
+
+        }
     }
 }
